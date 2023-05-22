@@ -1,16 +1,15 @@
 # To-Do-List
 
 ##  :fire: TRY IT OUT :fire:
-Link : https://sara-majdi.github.io/Simon-Game/
+Link : 
 </br>
 </br>
 
 Included in the repository are :
 </br>
 </br>
-📁 Simon Game files
-</br>
-📹 Video of Simon Games (mp4)
+📁 To-Do List files
+
 </br>
 </br>
 #### Note:
