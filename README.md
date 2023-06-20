@@ -15,5 +15,3 @@ Included in the repository are :
 
 #### Note:
 > Built using HTML, CSS, Javascript
-> #### Note:
-> Built using HTML, CSS, Javascript
