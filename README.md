@@ -11,7 +11,6 @@ Included in the repository are :
 📁 To-Do List files
 
 </br>
-</br>
 
 #### Note:
 > Built using HTML, CSS, Javascript
